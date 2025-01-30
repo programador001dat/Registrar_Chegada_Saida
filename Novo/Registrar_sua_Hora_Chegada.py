@@ -7,7 +7,7 @@ from time import gmtime, strftime
 """ Registro de Ponto """
 # coding: UTF-8
 
-os.system("cls")
+os.system("clear")
 admin = "programador001"
 
 class Codigo_Terminal:
